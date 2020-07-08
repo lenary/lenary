@@ -1,6 +1,6 @@
-### Hi there 👋
+I'm a software developer, currently working on the LLVM RISC-V target.
 
-I work on the RISC-V LLVM backend!
+When I was a PL researcher, I worked on Checked C and Idris, as well as other projects and [publications](https://lenary.co.uk/publications/). Even longer ago I worked on designing CRDTs.
 
 <!--
 **lenary/lenary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
