@@ -1,3 +1,5 @@
+## About Me
+
 I'm a software developer, currently working on the LLVM RISC-V target.
 
 When I was a PL researcher, I worked on Checked C and Idris, as well as other projects and [publications](https://lenary.co.uk/publications/). Even longer ago I worked on designing CRDTs.
