@@ -1,6 +1,6 @@
 ## About Me
 
-👨‍💻 I'm a Senior Compiler Engineer at [Arm](https://www.arm.com/). I have contributed to LLVM and Rust.
+👨‍💻 I'm a Staff Compiler Engineer. I have contributed to LLVM and Rust.
 
 👨‍🏫 I used to be a programming languages researcher. I worked on Checked C and Idris, as well as other projects and [publications](https://lenary.co.uk/publications/).
 
